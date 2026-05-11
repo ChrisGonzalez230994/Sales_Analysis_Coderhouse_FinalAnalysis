@@ -1,6 +1,11 @@
 # 📊 Proyecto Final — Análisis de Datos con SQL y Power BI
 ### CoderHouse | Curso de Análisis de Datos
 
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
+![SQL Server](https://img.shields.io/badge/SQL_Server-19-CC2927?logo=microsoft-sql-server)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi)
+
+
 ---
 
 ## 📋 Descripción
